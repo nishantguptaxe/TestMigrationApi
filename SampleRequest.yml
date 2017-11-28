@@ -1,0 +1,10 @@
+---
+- basePath:
+  headers:
+    Accept: application/json
+  method: get
+  paths:
+  query:
+  body:
+  status: 200
+  name: Taxonomy
